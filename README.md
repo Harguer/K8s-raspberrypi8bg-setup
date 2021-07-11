@@ -18,7 +18,7 @@ dd bs=4M if=2020-05-27-raspios-buster-arm64.img of=/dev/mmcblk0 conv=fsync
 
 Update OS
 ```
-sudo apt-get update; sudp apt upgrade -y
+sudo apt-get update; sudo apt upgrade -y
 ```
 
 install docker 
