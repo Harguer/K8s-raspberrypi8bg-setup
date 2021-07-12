@@ -68,7 +68,7 @@ kubectl apply -f https://raw.githubusercontent.com/coreos/flannel/master/Documen
 # on worker-nodes:
 ```
 kubeadm join 10.0.0.50:6443 --token yi4hzn.glushkg39orzx0fk \
-    --discovery-token-ca-cert-hash sha256:xyz0721e03e1585f86e46e477de0bdf32f59e0a6083f0e16871ababc123missing here more documentation....
+    --discovery-token-ca-cert-hash sha256:xyz0721e03e1585f86e46e477de0bdf32f59e0a6083f0e16871ababc123
 ```
 
 Check the status of the k8s env  
