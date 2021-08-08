@@ -1,4 +1,4 @@
-# K8s-raspberrypi8bg-setup
+# K8s-raspberrypi8gb-setup
 Before start, you maight want to check this other link: [home lab setup](https://github.com/Harguer/home-lab-setup  )
 
 One of the turorials I followed: [here](https://www.shogan.co.uk/kubernetes/building-a-raspberry-pi-kubernetes-cluster-part-2-master-node/)
